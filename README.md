@@ -1,7 +1,12 @@
 ### Hi there 👋
-<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=PoseidonMRT&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=PoseidonMRT&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
 Android Developer and a software architect.
+
+扫码关注微信公众号
+
+<img align="center" src="https://gitee.com/tuozhaobing/image/raw/master/qrcode_for_gh_1f87b8c00ede_344.jpg" />
+
 <!--
 **PoseidonMRT/PoseidonMRT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
